@@ -1,0 +1,53 @@
+body{
+    font-family: 'Great Vibes', cursive;
+    font-size: x-large;
+    background-image: url(symbol-scatter.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+    
+.dev{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.writer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+.foto{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.footer{
+    background-color: rgb(230, 11, 117);
+}
+.text-section{
+    margin: 10px;
+    padding: 15px;
+}
+.my-skills{
+    text-align: center;
+    color: rgb(230, 11, 117);
+    margin: 20px;
+}
+.pink-color{
+    color: rgb(230, 11, 117);
+}
+.pink-btn{
+    background-color: rgb(230, 11, 117);
+}
+.color-btn{
+    color: #ffffff;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+h1, h2{
+    color: rgb(230, 11, 117);
+}
